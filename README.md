@@ -102,7 +102,7 @@ All analysis uses the **BOEM Gulf of Mexico production database** — a publicly
 ## Installation
 
 ```bash
-git clone https://github.com/gems-at3823/irp-workbooks-progress.git
+git clone https://github.com/gems-at3823/PINODE-DCA-GoA.git
 cd irp-workbooks-progress
 pip install -r requirements.txt
 ```
@@ -149,4 +149,4 @@ This project was developed in collaboration with the **Subsurface Data Science t
 
 **Akhil Toram**  
 Petroleum Engineer | Subsurface Data Science  
-[akhil.toram07@gmail.com](mailto:akhil.toram07@gmail.com) | [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/gems-at3823)
+[akhil.toram07@gmail.com](mailto:akhil.toram07@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akhil-t-07125410a/) | [GitHub](https://github.com/gems-at3823)
